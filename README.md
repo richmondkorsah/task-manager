@@ -1,7 +1,3 @@
-Sure! Here's a basic template for a README file for your Python task manager app:
-
----
-
 # Simple Task Manager with Python
 
 
